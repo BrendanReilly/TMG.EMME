@@ -260,3 +260,5 @@ paket-files/
 __pycache__/
 *.pyc
 /TMG.EMME/TMGToolbox2/TMG_Toolbox.mtbx
+
+venv/
